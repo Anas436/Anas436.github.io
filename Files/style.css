@@ -581,7 +581,11 @@ body.skills           div.menu li.skills          a {
 
 /* Posts
 -------------------------------------------------------------- */
-
+.hentry-no-border {
+  float: left;
+  width: 100%;
+  font-size: 1em;
+}
 .hentry {
   float: left;
   width: 100%;
@@ -1179,6 +1183,14 @@ li a:hover{
   padding-top: 10px;
 }
 
+.hr-line-projects {
+  display: block;
+  height: 1px;
+  border: 0;
+  /* border-top: 1px solid #e7e7e7; */
+  margin: 1.3em 0 1.3em 0;
+  padding: 0;
+}
 
 .fw-300 {
   font-weight: 300;
