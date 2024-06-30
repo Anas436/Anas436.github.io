@@ -616,6 +616,11 @@ body.skills           div.menu li.skills          a {
   border-left: 1px solid #e5e5e5;
   padding-left: 2.34375%;
 }
+
+.entry-summary img {
+  width: 180px;
+}
+
 .hentry .featured-thumbnail { margin-bottom: 25px; }
 .hentry .archive-thumbnail {
   float: left;
